@@ -1844,16 +1844,17 @@ Name: Zephyr
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 
 Package: vn.tomkids.repoicon
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: Tomkids
-Depends: firmware (>= 7.0)
-Filename: debs/vn.tomkids.repoicon_1.0.0_iphoneos-arm.deb
-Size: 795424
-MD5sum: 85080245525c8bddc45f2a8ec3f786f6
-SHA1: c6b54a2ecdd6819c0d1c24c0368934f311f398c8
-SHA256: a4de1fa3596147ea5b6ddebeafb7c3c3414445a001c780c5bb0389301b1f96c1
+Depends: firmware (>= 2.0)
+Filename: debs/tomkids.repoicon_1.0.1_iphoneos-arm.deb
+Size: 795400
+MD5sum: f88148e7b91f6dece7266d98f45468a1
+SHA1: 2019a26f50d77c81c3fa892169a05982bf4fc751
+SHA256: f0c4ddd278c6e9f62a9ae8d9efb01136e7ac56b196af485d228918810220e55b
 Section: Tweaks
+Priority: optional
 Description: Copy Tomkids repo Applications.png icon into Cydia Sections folder.
 Author: Tomkids
 Name: Tomkids' repo icon

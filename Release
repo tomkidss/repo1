@@ -1,21 +1,8 @@
-Date: Sun, 03 May 2026 10:00:29 +0000
-MD5Sum:
- 7eb4465bc6197f9da57afe50bedfc7d2            80155 Packages
- ae975421bfac84b3ff3dd0c5b7a94251            24070 Packages.bz2
- 30607fba2361f9286c1e03f06b932996               38 Release
- b244c8238435977cb8ec37c67f837e99              861 debs/Packages
-SHA1:
- 95a50225fdf27174d9eedfc6cb8b5a57b6f24923            80155 Packages
- ef3e4fd552d2c0bd00991f27d1e51e741bd10c1f            24070 Packages.bz2
- 3271346623d4b2fef9a9cdddaddb7b377b093d5f               38 Release
- 83ccf082aaf6a148c66684952e08390cbe494c89              861 debs/Packages
-SHA256:
- 18011f906edf4ba49195655a22581ce6094b40e7b2458e635acb55fbf5295f63            80155 Packages
- e978929720a0b2106eed5ab1e6239f05fd6101638964eebbe3395656fc3e5187            24070 Packages.bz2
- ae8204797b83ab9cc036b228f9daf50b8983e993787a5cbf07bbb34ba85a2e61               38 Release
- 3e2e2b33fa068e5e25d76ae2cd0d7b368264ad468aaadf41cb101c4cf14e74f0              861 debs/Packages
-SHA512:
- 5c55e5b6aac312cc8822279ebb07d671b039490991e098990ac43e9b9430717fa872430a474f6bdd893e3d5f96bc0b4d10627e1b2809ad864bd96cbe216f1441            80155 Packages
- c14a1873f734dfc032eab7ff44f402a99e803e474a62df82ba836027440ae0a5bf65f35b5367cfbfe83a3fa43f92a4fba628a06592ffe6727d43e21bd14e00f4            24070 Packages.bz2
- 302130f9a7e6108cc44b90bc99077c3756865373a3dc8b4722bb778b296891b91499d8e8ad39ca02ba557d11fb9fd8a03c1b68a8da23f0abbf4acd21a70ce2b0               38 Release
- d0bac9a9fe0b0e5a2dfde4af2df61f3873c000da27d23d2307c1de289d044cfc7f0bf95c586d948d009888d48fd799dfe18e8daa60578d30984a8c8b38d2610a              861 debs/Packages
+Origin: Tomkids's Repo
+Label: Tomkids Repo
+Suite: stable
+Version: 2.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Kho ứng dụng & tweak iOS cổ của @Tomkids

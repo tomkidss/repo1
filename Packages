@@ -364,6 +364,22 @@ Depiction: http://www.iphoneruler.net/depiction/BytaFont/
 Name: BytaFont
 Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
 
+Package: com.isoftru.bochs
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: isoftcom.com <isoftteamsupport@gmail.com>>
+Filename: debs/com.isoftru.bochs_1.0.0-1_iphoneos-arm.deb
+Size: 36838638
+MD5sum: a3ba3f378dcbe1efeac6ca3362d52879
+SHA1: f54f48609fa60b16493455fb5bb0d36952e43537
+SHA256: d4f34ae79b80f85ebc29cb6e2ab0578a0c8e6df3859c95133c935d42900abd09
+Section: System
+Homepage: http://isoftcom.com/
+Description: Run Windows 3.11 and Windows 95 on your iPhone. It's slow, but worked.
+Author: isoftcom.com <isoftteamsupport@gmail.com>
+Dev: isoftru
+Name: Bochs (Win95 for iPhone)
+
 Package: com.ixmoe.1pwn.veteris
 Version: 2.1.1
 Architecture: iphoneos-arm
